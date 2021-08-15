@@ -42,7 +42,7 @@ Here are some ideas to get you started:
   * **Name: localHost | Heroku Link : [localHost](https://localhostchats.herokuapp.com/) | GitHub Link: [Repo](https://github.com/GrantCloyd/Msgr-app)** <br />
   Description: A chat messaging SPA built with React/Rails using ActionCable. Change your theme colors, create chat rooms, view user profiles, and message with each other in family friendly or adult-only rooms. 
   * **Name: CoffeeFiltr | GitHub Links: [Front End](https://github.com/Anchobies/CoffeeFiltr--Front-End)  | [Back End](https://github.com/Anchobies/CoffeeFiltr-Backend)** <br />
-  Description: A SPA built using React/Sinatra. A fun way to explore new coffee beverages, find favorites, search by ingredients, and learn what you can create with the ingredients you already have on hand.  
+  Description: A pair-built SPA created using React/Sinatra. A fun way to explore new coffee beverages, find favorites, search by ingredients, and learn what you can create with the ingredients you already have on hand.  
 
 </div>
 
