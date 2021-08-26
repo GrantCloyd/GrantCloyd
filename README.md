@@ -39,11 +39,11 @@ Here are some ideas to get you started:
  <div align="left">
 
 ## Projects
- * **Name: Here|Now | GitHub Link: [Repo](https://github.com/GrantCloyd/MedApp)** <br /> A meditation app designed for users and content creators to come together and interact with each other through guided meditations, messaging, following, favoriting, and donations while tracking and providing relevant user/creator data.  
+ * **Name: Here|Now | GitHub Link: [Repo](https://github.com/GrantCloyd/MedApp)**  | Video Demo: [Loom](https://www.loom.com/share/f1e48e24326e485a839bc9eba9210ba3) <br /> A meditation app designed for users and content creators to come together and interact with each other through guided meditations, messaging, following, favoriting, and donations while tracking and providing relevant user/creator data.  
 
-  * **Name: localHost | Heroku Link : [localHost](https://localhostchats.herokuapp.com/) | GitHub Link: [Repo](https://github.com/GrantCloyd/Msgr-app)** <br />
+  * **Name: localHost | Heroku Link : [localHost](https://localhostchats.herokuapp.com/) | GitHub Link: [Repo](https://github.com/GrantCloyd/Msgr-app)** | Video Demo: [Loom](https://www.loom.com/share/9e68ef46f421494886655e5b6ae1e387) <br />
   Description: A chat messaging SPA built with React/Rails using ActionCable. Change your theme colors, create chat rooms, view user profiles, and message with each other in family friendly or adult-only rooms. 
-  * **Name: CoffeeFiltr | GitHub Links: [Front End](https://github.com/Anchobies/CoffeeFiltr--Front-End)  | [Back End](https://github.com/Anchobies/CoffeeFiltr-Backend)** <br />
+  * **Name: CoffeeFiltr | GitHub Links: [Front End](https://github.com/Anchobies/CoffeeFiltr--Front-End)  | [Back End](https://github.com/Anchobies/CoffeeFiltr-Backend)** Video Demo: [Loom](https://www.loom.com/share/bcf5a5b7a72b4351b68ba28742690742) <br />
   Description: A pair-built SPA created using React/Sinatra. A fun way to explore new coffee beverages, find favorites, search by ingredients, and learn what you can create with the ingredients you already have on hand.  
 
 </div>
