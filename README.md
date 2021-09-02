@@ -29,7 +29,7 @@ Here are some ideas to get you started:
 
   <div align="left">
 
-* 🔭 I’m currently working on a meditation app, learning new technologies, and looking for work.
+* 🔭 I’m currently working on algorithms and data structures, playing around with Gatsby.js, and looking for work.
 * ⚡ Fun facts: I've spent over ten years as a professional actor and six years in medical education helping improve new student patient communication skills.  
 </div>
 
