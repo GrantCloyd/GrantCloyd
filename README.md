@@ -33,9 +33,6 @@ Here are some ideas to get you started:
 * ⚡ Fun facts: I've spent over ten years as a professional actor and six years in medical education helping improve new student patient communication skills.  
 </div>
 
-
-<img src="https://github-readme-stats.vercel.app/api?username=grantcloyd" /> <br  />
-
  <div align="left">
 
 ## Projects
