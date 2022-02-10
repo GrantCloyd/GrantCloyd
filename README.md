@@ -29,7 +29,7 @@ Here are some ideas to get you started:
 
   <div align="left">
 
-* 🔭 I’m starting a jr. dev job on 11/1 and looking to learn new languages and frameworks on the side. 
+* 🔭 I work as a back-end support engineer with rails.  
 * ⚡ Fun facts: I've spent over ten years as a professional actor and six years in medical education helping improve new student patient communication skills.  
 </div>
 
