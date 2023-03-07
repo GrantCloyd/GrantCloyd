@@ -15,7 +15,7 @@
 
   <div align="left">
 
-* 🔭 I work as a back-end support engineer with rails for a rapidly expanding health-care start up.  
+* 🔭 I work as a back-end software engineer with rails for a health-care staffing company.  
 * ⚡ Fun facts: I spent over ten years as a professional actor and six years in medical education helping improve new student patient communication skills.  
 </div>
 
