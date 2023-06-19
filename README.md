@@ -1,7 +1,7 @@
 <div align="center">
 
 ## Hi there 👋 I'm Grant 
-# I'm a Full-Stack Developer, lover of the arts and education, and proud cat dad 
+# I'm a Software Engineer, lover of the arts and education, and proud cat dad 
 </div>
 
 
@@ -15,7 +15,7 @@
 
   <div align="left">
 
-* 🔭 I recently worked as a back-end ruby on rails software engineer with for a health-care start up company.  
+* 🔭 I recently worked as a ruby on rails software engineer with for a health-care start up company.  
 * ⚡ Fun facts: I spent over ten years as a professional actor and six years in medical education helping improve new student patient communication skills.  
 </div>
 
