@@ -15,7 +15,7 @@
 
   <div align="left">
 
-* 🔭 I recently worked as a ruby on rails developer for a health-care start up company.  
+* 🔭 I currently work as a software engineer for an apartment rental start-up company. Previously worked as a ruby on rails developer for a health-care start up company.  
 * ⚡ Fun facts: I spent over ten years as a professional actor and six years in medical education helping improve new student patient communication skills.  
 
 </div>
