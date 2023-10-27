@@ -7,15 +7,12 @@
 
 <div align="center">
 
-### Connect with me
-
- [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/grant-cloyd/)        [![Dev.To Blog](https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white)](https://dev.to/grantcloyd)          [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/grantcloyd1)
-
-### Email 📫 : dgcloyd@gmail.com  😄 Pronouns: he/him/his
+### Contact and Info
+ 📫 : dgcloyd@gmail.com    👔 [LinkedIn Profile](https://www.linkedin.com/in/grant-cloyd/)    😄 Pronouns: he/him/his  
 
   <div align="left">
 
-* 🔭 I currently work as a software engineer for an apartment rental start-up company. Previously worked as a ruby on rails developer for a health-care start up company.  
+* 🔭 I currently work as a software engineer for an apartment short term rental focused start-up. Previously worked as a ruby on rails developer for a health-care start up.  
 * ⚡ Fun facts: I spent over ten years as a professional actor and six years in medical education helping improve new student patient communication skills.  
 
 </div>
@@ -23,8 +20,6 @@
 ![Grant Cloyd's github streak](https://github-readme-streak-stats.herokuapp.com/?user=GrantCloyd&theme=blue-green)
 
 <div>
-
-
 
 ## Languages & Technologies: 
 
