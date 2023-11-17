@@ -12,7 +12,7 @@
 
   <div align="left">
 
-* 🔭 I currently work as a software engineer for a short term rental start-up. Previously worked as a ruby on rails developer for a health-care start-up.  
+* 🔭 Previously worked as a ruby on rails developer for a health-care start-up and a short term rental start-up.  
 * ⚡ Fun facts: I spent over ten years as a professional actor and six years in medical education helping improve new student patient communication skills.  
 
 </div>
