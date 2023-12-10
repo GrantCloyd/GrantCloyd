@@ -1,7 +1,7 @@
 <div align="center">
 
 ## Hi there 👋 I'm Grant 
-# I'm a Software Engineer, lover of the arts and education, and proud cat dad 
+# I'm a Software Engineer, lover of the arts and education, and proud father
 </div>
 
 
