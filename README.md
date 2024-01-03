@@ -8,7 +8,7 @@
 <div align="center">
 
 ### Contact and Info
- 📫 : dgcloyd@gmail.com    👔 [LinkedIn Profile](https://www.linkedin.com/in/grant-cloyd/)    😄 Pronouns: he/him/his  
+ 📫 : grant.cloyd@gmail.com    👔 [LinkedIn Profile](https://www.linkedin.com/in/grant-cloyd/)    😄 Pronouns: he/him/his  
 
   <div align="left">
 
