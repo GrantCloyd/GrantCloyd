@@ -13,7 +13,7 @@
   <div align="left">
 
 * 🔭 Previously worked as a ruby on rails developer for a health-care start-up and a short term rental start-up.  
-* ⚡ Fun facts: I spent over ten years as a professional actor and six years in medical education helping improve new student patient communication skills.  
+* ⚡ Fun facts: I spent over ten years as a professional actor and six years in medical education helping improve patient communication skills (and even helped open a brand new medical school).  
 
 </div>
 
