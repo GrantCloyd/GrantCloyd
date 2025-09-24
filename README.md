@@ -1,7 +1,7 @@
 <div align="center">
 
 ## Hi there 👋 I'm Grant 
-# I'm a Software Engineer, lover of the arts and education, and proud father
+# I'm a Software Engineer, proud father, and lover of the arts and education
 </div>
 
 
@@ -15,11 +15,6 @@
 * 🔭 Currently work as a fullstack rails developer for a payroll start-up. Previously worked for a health-care start-up and a short term rental start-up. 
 * ⚡ Fun facts: I spent over ten years as a professional actor and six years in medical education helping improve patient communication skills (and even helped open a brand new medical school).  
 
-</div>
-
-![Grant Cloyd's github streak](https://github-readme-streak-stats.herokuapp.com/?user=GrantCloyd&theme=blue-green)
-
-<div>
 
 ## Languages & Technologies: 
 
